@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #11074d;
+    color: rgb(120, 130, 218);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(216, 136, 136);
+    text-decoration: none;
+    margin: 0 10px;
+    
+}
+
+main {
+    padding: 20px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 8px 0;
+}
+
+aside {
+    background-color: #04110e;
+    color: rgb(135, 157, 229);
+    padding: 10px;
+}
+
+footer {
+    background-color: #11074d;
+    color: rgb(224, 109, 157);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
